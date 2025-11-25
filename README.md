@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/rishita-saha/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/rishita-saha/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
@@ -37,10 +38,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishita-saha/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/rishita-saha/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/rishita-saha/Leetcode-practice/tree/master/0742-to-lower-case) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0088-merge-sorted-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rishita-saha/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
