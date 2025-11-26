@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
+| [2383-add-two-integers](https://github.com/rishita-saha/Leetcode-practice/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
