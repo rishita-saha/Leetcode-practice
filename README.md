@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/rishita-saha/Leetcode-practice/tree/master/0175-combine-two-tables) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rishita-saha/Leetcode-practice/tree/master/1908-recyclable-and-low-fat-products) |
 ## Bit Manipulation
 |  |
