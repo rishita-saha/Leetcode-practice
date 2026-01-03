@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rishita-saha/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/rishita-saha/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [2383-add-two-integers](https://github.com/rishita-saha/Leetcode-practice/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
