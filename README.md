@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/rishita-saha/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0066-plus-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/0066-plus-one) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
+| [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
 | [2383-add-two-integers](https://github.com/rishita-saha/Leetcode-practice/tree/master/2383-add-two-integers) |
 ## Dynamic Programming
 |  |
