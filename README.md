@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/rishita-saha/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Trie
 |  |
 | ------- |
