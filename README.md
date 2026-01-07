@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0009-palindrome-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/0066-plus-one) |
+| [0263-ugly-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0263-ugly-number) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
 | [2383-add-two-integers](https://github.com/rishita-saha/Leetcode-practice/tree/master/2383-add-two-integers) |
