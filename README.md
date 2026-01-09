@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
 | [2383-add-two-integers](https://github.com/rishita-saha/Leetcode-practice/tree/master/2383-add-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/rishita-saha/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
