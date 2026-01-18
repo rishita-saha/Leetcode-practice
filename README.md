@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0728-self-dividing-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/rishita-saha/Leetcode-practice/tree/master/2383-add-two-integers) |
