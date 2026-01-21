@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishita-saha/Leetcode-practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1603-running-sum-of-1d-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1646-kth-missing-positive-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1646-kth-missing-positive-number) |
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishita-saha/Leetcode-practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1646-kth-missing-positive-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
