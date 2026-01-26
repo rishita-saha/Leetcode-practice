@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/rishita-saha/Leetcode-practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/rishita-saha/Leetcode-practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0263-ugly-number) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/rishita-saha/Leetcode-practice/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
