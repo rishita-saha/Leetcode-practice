@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2383-add-two-integers](https://github.com/rishita-saha/Leetcode-practice/tree/master/2383-add-two-integers) |
 | [2571-find-the-pivot-integer](https://github.com/rishita-saha/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3830-find-closest-person](https://github.com/rishita-saha/Leetcode-practice/tree/master/3830-find-closest-person) |
 ## Dynamic Programming
 |  |
 | ------- |
