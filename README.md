@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishita-saha/Leetcode-practice/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/rishita-saha/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rishita-saha/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0742-to-lower-case](https://github.com/rishita-saha/Leetcode-practice/tree/master/0742-to-lower-case) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
