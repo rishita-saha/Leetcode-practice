@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rishita-saha/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/rishita-saha/Leetcode-practice/tree/master/1306-minimum-absolute-difference) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishita-saha/Leetcode-practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rishita-saha/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [1019-squares-of-a-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1019-squares-of-a-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/rishita-saha/Leetcode-practice/tree/master/1306-minimum-absolute-difference) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
