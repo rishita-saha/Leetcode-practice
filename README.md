@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3952-trionic-array-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3952-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
