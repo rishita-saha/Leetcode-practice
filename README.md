@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishita-saha/Leetcode-practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3651-transformed-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/3651-transformed-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3952-trionic-array-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3952-trionic-array-i) |
 ## Hash Table
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/rishita-saha/Leetcode-practice/tree/master/0258-add-digits) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/2298-count-integers-with-even-digit-sum) |
+| [3651-transformed-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/3651-transformed-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
