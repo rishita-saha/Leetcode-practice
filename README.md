@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishita-saha/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
