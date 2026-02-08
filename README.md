@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/rishita-saha/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/rishita-saha/Leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/rishita-saha/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/rishita-saha/Leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
 | [0742-to-lower-case](https://github.com/rishita-saha/Leetcode-practice/tree/master/0742-to-lower-case) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Sorting
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
