@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/rishita-saha/Leetcode-practice/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/rishita-saha/Leetcode-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rishita-saha/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/rishita-saha/Leetcode-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/rishita-saha/Leetcode-practice/tree/master/1306-minimum-absolute-difference) |
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
+| [0561-array-partition](https://github.com/rishita-saha/Leetcode-practice/tree/master/0561-array-partition) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
@@ -253,4 +256,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rishita-saha/Leetcode-practice/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
