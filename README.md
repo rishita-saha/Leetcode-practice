@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3651-transformed-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/3651-transformed-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3952-trionic-array-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3952-trionic-array-i) |
+| [4045-longest-balanced-subarray-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1064-smallest-integer-divisible-by-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [4045-longest-balanced-subarray-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/rishita-saha/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [2571-find-the-pivot-integer](https://github.com/rishita-saha/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
+| [4045-longest-balanced-subarray-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Simulation
 |  |
 | ------- |
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
+| [4045-longest-balanced-subarray-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -238,4 +242,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishita-saha/Leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+## Segment Tree
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4045-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
