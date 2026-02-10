@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4045-longest-balanced-subarray-i) |
+| [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/rishita-saha/Leetcode-practice/tree/master/0742-to-lower-case) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishita-saha/Leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
+| [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -246,4 +249,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [4045-longest-balanced-subarray-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4045-longest-balanced-subarray-i) |
+## Enumeration
+|  |
+| ------- |
+| [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
