@@ -5,24 +5,16 @@ class Solution {
         max = 0;
         for(int i=0;i<n;i++){
             int[] frq = new int[26];
-            
+            int dist = 0,mf = 0;
             for(int j=i;j<n;j++){
+                if(frq[s.charAt(j)-'a'] == 0)
+                    dist++;
+
                 frq[s.charAt(j)-'a']++;
 
-                int ex = 0;
-                boolean val = true;
-                for(int k=0;k<26;k++){
-                    if(frq[k]>0){
-                        if(ex == 0)
-                            ex = frq[k];
-                        else if(ex != frq[k]){
-                            val = false;
-                            break;
-                        }
-                    }
+                mf = Math.max(mf,frq[s.charAt(j)-'a']);
 
-                }
-                if(val)
+                if(j-i+1 == dist*mf)
                     max = Math.max(max,j-i+1);
             }
         }
