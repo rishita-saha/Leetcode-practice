@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishita-saha/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0815-champagne-tower](https://github.com/rishita-saha/Leetcode-practice/tree/master/0815-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishita-saha/Leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Recursion
