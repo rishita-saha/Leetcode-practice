@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rishita-saha/Leetcode-practice/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/rishita-saha/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/rishita-saha/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rishita-saha/Leetcode-practice/tree/master/0342-power-of-four) |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/rishita-saha/Leetcode-practice/tree/master/0190-reverse-bits) |
 | [4045-longest-balanced-subarray-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4045-longest-balanced-subarray-i) |
 ## Counting
 |  |
