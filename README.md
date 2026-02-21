@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0728-self-dividing-numbers) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishita-saha/Leetcode-practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/rishita-saha/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rishita-saha/Leetcode-practice/tree/master/0342-power-of-four) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishita-saha/Leetcode-practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 ## Prefix Sum
 |  |
 | ------- |
