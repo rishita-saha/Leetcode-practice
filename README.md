@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rishita-saha/Leetcode-practice/tree/master/0342-power-of-four) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishita-saha/Leetcode-practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0899-binary-gap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0899-binary-gap) |
 ## Prefix Sum
 |  |
 | ------- |
