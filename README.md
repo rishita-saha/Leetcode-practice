@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2571-find-the-pivot-integer](https://github.com/rishita-saha/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3830-find-closest-person](https://github.com/rishita-saha/Leetcode-practice/tree/master/3830-find-closest-person) |
+| [4226-check-digitorial-permutation](https://github.com/rishita-saha/Leetcode-practice/tree/master/4226-check-digitorial-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
 | [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
+| [4226-check-digitorial-permutation](https://github.com/rishita-saha/Leetcode-practice/tree/master/4226-check-digitorial-permutation) |
 ## Bucket Sort
 |  |
 | ------- |
