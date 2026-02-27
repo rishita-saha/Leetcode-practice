@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/rishita-saha/Leetcode-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rishita-saha/Leetcode-practice/tree/master/0724-find-pivot-index) |
+| [0924-fair-candy-swap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
+| [0924-fair-candy-swap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/rishita-saha/Leetcode-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0924-fair-candy-swap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0924-fair-candy-swap) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/rishita-saha/Leetcode-practice/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishita-saha/Leetcode-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
+| [0924-fair-candy-swap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0924-fair-candy-swap) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/rishita-saha/Leetcode-practice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishita-saha/Leetcode-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1646-kth-missing-positive-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1646-kth-missing-positive-number) |
