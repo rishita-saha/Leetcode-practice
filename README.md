@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/rishita-saha/Leetcode-practice/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/2481-strictly-palindromic-number) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishita-saha/Leetcode-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rishita-saha/Leetcode-practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rishita-saha/Leetcode-practice/tree/master/0258-add-digits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3651-transformed-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/3651-transformed-array) |
