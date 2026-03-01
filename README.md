@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishita-saha/Leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/4056-longest-balanced-substring-ii) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/rishita-saha/Leetcode-practice/tree/master/0561-array-partition) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
