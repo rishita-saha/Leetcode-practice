@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/rishita-saha/Leetcode-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/rishita-saha/Leetcode-practice/tree/master/0724-find-pivot-index) |
+| [0909-stone-game](https://github.com/rishita-saha/Leetcode-practice/tree/master/0909-stone-game) |
 | [0924-fair-candy-swap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0728-self-dividing-numbers) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishita-saha/Leetcode-practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [0909-stone-game](https://github.com/rishita-saha/Leetcode-practice/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1284-four-divisors](https://github.com/rishita-saha/Leetcode-practice/tree/master/1284-four-divisors) |
@@ -121,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0815-champagne-tower](https://github.com/rishita-saha/Leetcode-practice/tree/master/0815-champagne-tower) |
+| [0909-stone-game](https://github.com/rishita-saha/Leetcode-practice/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishita-saha/Leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Recursion
@@ -354,4 +357,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/rishita-saha/Leetcode-practice/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
