@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/rishita-saha/Leetcode-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rishita-saha/Leetcode-practice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0742-to-lower-case](https://github.com/rishita-saha/Leetcode-practice/tree/master/0742-to-lower-case) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishita-saha/Leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rishita-saha/Leetcode-practice/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rishita-saha/Leetcode-practice/tree/master/0258-add-digits) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/2298-count-integers-with-even-digit-sum) |
