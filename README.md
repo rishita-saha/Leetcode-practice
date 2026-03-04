@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1646-kth-missing-positive-number) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rishita-saha/Leetcode-practice/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/rishita-saha/Leetcode-practice/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishita-saha/Leetcode-practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rishita-saha/Leetcode-practice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rishita-saha/Leetcode-practice/tree/master/1658-minimum-swaps-to-arrange-a-binary-grid) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/rishita-saha/Leetcode-practice/tree/master/1704-special-positions-in-a-binary-matrix) |
 ## Stack
 |  |
 | ------- |
