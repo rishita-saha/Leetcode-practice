@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishita-saha/Leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/4056-longest-balanced-substring-ii) |
