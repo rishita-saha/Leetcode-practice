@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishita-saha/Leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0392-is-subsequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0815-champagne-tower](https://github.com/rishita-saha/Leetcode-practice/tree/master/0815-champagne-tower) |
 | [0909-stone-game](https://github.com/rishita-saha/Leetcode-practice/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rishita-saha/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishita-saha/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rishita-saha/Leetcode-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rishita-saha/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
+| [0392-is-subsequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/rishita-saha/Leetcode-practice/tree/master/0742-to-lower-case) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
