@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/rishita-saha/Leetcode-practice/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishita-saha/Leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rishita-saha/Leetcode-practice/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Recursion
 |  |
 | ------- |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rishita-saha/Leetcode-practice/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rishita-saha/Leetcode-practice/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rishita-saha/Leetcode-practice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/4056-longest-balanced-substring-ii) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rishita-saha/Leetcode-practice/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rishita-saha/Leetcode-practice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Matrix
 |  |
