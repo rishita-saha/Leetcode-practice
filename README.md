@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/1013-fibonacci-number) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/rishita-saha/Leetcode-practice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/rishita-saha/Leetcode-practice/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 ## Recursion
 |  |
 | ------- |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/rishita-saha/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1603-running-sum-of-1d-array) |
 | [2571-find-the-pivot-integer](https://github.com/rishita-saha/Leetcode-practice/tree/master/2571-find-the-pivot-integer) |
+| [3406-find-all-possible-stable-binary-arrays-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4045-longest-balanced-subarray-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/4056-longest-balanced-substring-ii) |
 ## Simulation
