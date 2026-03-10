@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rishita-saha/Leetcode-practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rishita-saha/Leetcode-practice/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/rishita-saha/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rishita-saha/Leetcode-practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0263-ugly-number) |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rishita-saha/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rishita-saha/Leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0633-sum-of-square-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1019-squares-of-a-sorted-array) |
