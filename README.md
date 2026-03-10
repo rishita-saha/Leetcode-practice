@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rishita-saha/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0924-fair-candy-swap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0924-fair-candy-swap) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/rishita-saha/Leetcode-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rishita-saha/Leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/rishita-saha/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/rishita-saha/Leetcode-practice/tree/master/0742-to-lower-case) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/rishita-saha/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/rishita-saha/Leetcode-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishita-saha/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
