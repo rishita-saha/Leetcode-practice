@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/rishita-saha/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rishita-saha/Leetcode-practice/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/rishita-saha/Leetcode-practice/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/rishita-saha/Leetcode-practice/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0899-binary-gap) |
 | [1054-complement-of-base-10-integer](https://github.com/rishita-saha/Leetcode-practice/tree/master/1054-complement-of-base-10-integer) |
