@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/rishita-saha/Leetcode-practice/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rishita-saha/Leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/rishita-saha/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/rishita-saha/Leetcode-practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rishita-saha/Leetcode-practice/tree/master/0075-sort-colors) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishita-saha/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/rishita-saha/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/rishita-saha/Leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/rishita-saha/Leetcode-practice/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/rishita-saha/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rishita-saha/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rishita-saha/Leetcode-practice/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rishita-saha/Leetcode-practice/tree/master/0125-valid-palindrome) |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/rishita-saha/Leetcode-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rishita-saha/Leetcode-practice/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/rishita-saha/Leetcode-practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rishita-saha/Leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0164-maximum-gap) |
