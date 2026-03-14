@@ -252,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/rishita-saha/Leetcode-practice/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/rishita-saha/Leetcode-practice/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/rishita-saha/Leetcode-practice/tree/master/0577-employee-bonus) |
+| [0620-not-boring-movies](https://github.com/rishita-saha/Leetcode-practice/tree/master/0620-not-boring-movies) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rishita-saha/Leetcode-practice/tree/master/1908-recyclable-and-low-fat-products) |
 ## Bit Manipulation
 |  |
