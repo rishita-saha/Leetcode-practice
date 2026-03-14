@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/rishita-saha/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/rishita-saha/Leetcode-practice/tree/master/0742-to-lower-case) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishita-saha/Leetcode-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/rishita-saha/Leetcode-practice/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/rishita-saha/Leetcode-practice/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -421,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishita-saha/Leetcode-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/2107-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
