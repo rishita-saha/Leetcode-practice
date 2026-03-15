@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rishita-saha/Leetcode-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/rishita-saha/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0924-fair-candy-swap](https://github.com/rishita-saha/Leetcode-practice/tree/master/0924-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/rishita-saha/Leetcode-practice/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/rishita-saha/Leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/rishita-saha/Leetcode-practice/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rishita-saha/Leetcode-practice/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rishita-saha/Leetcode-practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rishita-saha/Leetcode-practice/tree/master/0392-is-subsequence) |
 | [0742-to-lower-case](https://github.com/rishita-saha/Leetcode-practice/tree/master/0742-to-lower-case) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rishita-saha/Leetcode-practice/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -333,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rishita-saha/Leetcode-practice/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/rishita-saha/Leetcode-practice/tree/master/0383-ransom-note) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/rishita-saha/Leetcode-practice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2486-most-frequent-even-element](https://github.com/rishita-saha/Leetcode-practice/tree/master/2486-most-frequent-even-element) |
 | [4055-longest-balanced-substring-i](https://github.com/rishita-saha/Leetcode-practice/tree/master/4055-longest-balanced-substring-i) |
